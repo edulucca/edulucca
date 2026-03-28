@@ -87,12 +87,9 @@ Também tenho experiência em análise de performance de software, propondo solu
 </div>
 
 ## Estatísticas
-<div align="left">
-  <img height="165" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edulucca&layout=compact&font=Iosevka&langs_count=16&theme=blue-green&v=1" />
-    &nbsp;&nbsp;
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=edulucca&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=blue-green&font=Iosevka&v=1" />
-  
-</div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edulucca&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ## 📬 Entre em contato:
 <p align="left">
